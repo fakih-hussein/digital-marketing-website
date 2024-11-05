@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Proxima nova";
+    src: url("./../assets/fonts/Demo_Fonts/Fontspring-DEMO-proximanova-black.otf");
+}
+
+@font-face {
+    font-family: "Proxima nova";
+    src: url("./../assets/fonts/Demo_Fonts/Fontspring-DEMO-proximanova-bold.otf");
+}
+
